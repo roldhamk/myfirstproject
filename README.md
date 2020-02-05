@@ -5,6 +5,7 @@ This is my very first project.
 ## Files include: 
 
 * demo.js
+* noughtsandcrosses.js
 * .gitignore
     * specify the files I want to ignore
 * README.md
