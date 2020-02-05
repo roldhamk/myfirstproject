@@ -6,6 +6,7 @@ This is my very first project.
 
 * demo.js
 * noughtsandcrosses.js
+    * challenge completed in class
 * .gitignore
     * specify the files I want to ignore
 * README.md
